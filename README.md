@@ -1,3 +1,7 @@
+# NOTICE
+
+This is a restored repo of the former open source Meetup project, [sbt-openapi](https://github.com/meetup/sbt-openapi). It appears the repo was either made closed or removed entirely, even though it was previously released under the MIT license. I have restored it from a local backup current with the last commit made to the public repo.
+
 # sbt-openapi
 [![Build Status](https://api.travis-ci.org/meetup/sbt-openapi.svg?branch=master)](https://travis-ci.org/meetup/sbt-openapi)
 
